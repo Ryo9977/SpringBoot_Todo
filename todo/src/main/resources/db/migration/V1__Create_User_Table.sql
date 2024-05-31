@@ -1,0 +1,4 @@
+CREATE TABLE Todo(
+  id SERIAL PRIMARY KEY,
+  title VARCHAR(100)
+  );
